@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><opml version="1.0"><head><title>导出订阅</title></head><body><outline text="ios" title="ios" >
+<outline text="Solidot" title="Solidot" type="rss" xmlUrl="http://feeds.feedburner.com/solidot" htmlUrl="https://www.solidot.org/"/>
+<outline text="Engadget 中国版" title="Engadget 中国版" type="rss" xmlUrl="http://cn.engadget.com/rss.xml" htmlUrl="http://cn.engadget.com/"/></outline></body></opml>
