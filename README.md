@@ -6,3 +6,4 @@
 ----- | -----
 [Solidot](https://www.solidot.org/) | <http://feeds.feedburner.com/solidot>
 [Engadget 中国版](http://cn.engadget.com/) | <http://cn.engadget.com/rss.xml>
+[Readhub 热门话题](https://readhub.cn/topics) | <http://readhub.bayes.cafe/rss?channel=topics>
